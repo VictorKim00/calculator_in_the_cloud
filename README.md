@@ -1,4 +1,4 @@
-# calculator_in_the_clould
+# calculator_in_the_cloud
 Computer Networking HW1 – Java Socket Calculator
 Date: **2025.11.10**  
 
