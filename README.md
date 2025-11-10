@@ -1,6 +1,5 @@
 # calculator_in_the_cloud
-Computer Networking HW1 – Java Socket Calculator
-Date: **2025.11.10**  
+Computer Networking HW1 – Java Socket Calculator 
 
 This project implements a **client-server calculator** application using **Java TCP sockets**.  
 The goal is to understand socket communication, multithreaded server design, and application-layer protocol definition.
