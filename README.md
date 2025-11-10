@@ -292,6 +292,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Java Socket Programming Documentation
 - HTTP Protocol Specification (for inspiration)
 
+  
+### 🤖 AI Assistance Disclosure
+Some parts of this project (such as error-handling logic and thread management) were reviewed and refined
+with assistance from **Anthropic Claude**.  
+All final implementations were written, tested, and verified by the author.  
+This disclosure is made for transparency.
 ---
 
 **⭐ If you found this project helpful, please consider giving it a star!**
